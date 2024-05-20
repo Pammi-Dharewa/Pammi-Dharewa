@@ -1,4 +1,9 @@
+![Header](./your-header-image.png)
+
 # Hi there, I'm Pammi Dharewa 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-Pammi_Dharewa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pammi-dharewa-08008a1a8)](https://www.linkedin.com/in/pammi-dharewa-08008a1a8)
+[![Gmail Badge](https://img.shields.io/badge/-dharewapammi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dharewapammi@gmail.com)](mailto:dharewapammi@gmail.com)
 
 ## About Me
 I am a passionate full stack developer with a solid foundation in both front-end and back-end technologies. Currently, I am expanding my skills in web development through various projects and courses.
@@ -17,8 +22,11 @@ I am a passionate full stack developer with a solid foundation in both front-end
 - **10th Standard** - D.A.V School, Biratnagar, Nepal (79.80%)
 
 ## Projects
-- **Isolation and Screening of Biosurfactants**: Conducted research on biosurfactants produced from oil-contaminated soil.
-- **Personal Portfolio Website**: A personal portfolio website showcasing my skills, projects, and achievements.
+### Isolation and Screening of Biosurfactants
+Conducted research on biosurfactants produced from oil-contaminated soil.
+
+### Personal Portfolio Website
+A personal portfolio website showcasing my skills, projects, and achievements.
 
 ## Work Experience
 - **Home Tutor**: Provided personalized tutoring in Science and Math, fostering a positive learning environment.
@@ -31,4 +39,12 @@ I am a passionate full stack developer with a solid foundation in both front-end
 - [LinkedIn](https://www.linkedin.com/in/pammi-dharewa-08008a1a8)
 - [Email](mailto:dharewapammi@gmail.com)
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+## GitHub Stats
+![Pammi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pammi-Dharewa&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pammi-Dharewa&layout=compact&theme=radical)
+
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/{Pammi-Dharewa}/count.svg)
+
