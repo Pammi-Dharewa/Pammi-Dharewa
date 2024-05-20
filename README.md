@@ -1,4 +1,4 @@
-![Header](./your-header-image.png)
+![Header](https://your-image-link.com/header-image.png)
 
 # Hi there, I'm Pammi Dharewa 👋
 
@@ -47,4 +47,3 @@ A personal portfolio website showcasing my skills, projects, and achievements.
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{Pammi-Dharewa}/count.svg)
-
