@@ -1,4 +1,3 @@
-![Header](./your-header-image-name.png)
 
 
 # Hi there, I'm Pammi Dharewa 👋
