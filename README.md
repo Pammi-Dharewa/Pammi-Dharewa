@@ -10,9 +10,9 @@ I am a passionate full stack developer with a solid foundation in both front-end
 
 ## Skills
 - **Front-End Development**: HTML, CSS, JavaScript
-- **Back-End Development**: Node.js, Express.js
+- **Back-End Development**: Node.js, Express.js, SpringBoot
 - **Databases**: MongoDB, MySQL
-- **Programming Languages**: Java, SQL
+- **Programming Languages**: Java, JavaScript
 - **Data Structures and Algorithms**
 - **Graphics Design**: Photoshop, Canva
 
